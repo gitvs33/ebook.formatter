@@ -1,0 +1,6 @@
+{
+  "name": "AI Ebook Formatter",
+  "description": "An application to format raw ebook text using AI and download it as a PDF.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
