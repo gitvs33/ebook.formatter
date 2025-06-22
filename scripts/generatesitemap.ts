@@ -29,7 +29,7 @@ let routes = [
 
 // Configuration
 const config = {
-  baseUrl: 'https://yourdomain.com', // Update this with your actual domain
+  baseUrl: 'https://ebook-formatter.vercel.app/', // Update this with your actual domain
   outputPath: '../public/sitemap.xml'
 };
 
